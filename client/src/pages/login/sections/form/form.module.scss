@@ -4,6 +4,18 @@
     align-items: center;
     flex-direction: column;
     justify-content: center;
+
+    p{
+        display: block;
+        font-size: var(--fs-medium);
+        color: var(--black);
+
+        span{
+            font-weight: var(--fw-bold);
+            font-size: var(--fs-medium);
+            cursor: pointer;
+        }
+    }
     
     .form{
         display: flex;
