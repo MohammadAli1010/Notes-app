@@ -1,1 +1,24 @@
-This project is a combined effort of Ritik Bosu and Mohammad Ali.
+Notes App (MERN Stack)
+A full-stack Notes application built with the MERN stack (MongoDB, Express, React, Node.js), allowing users to create, edit, delete, and view notes securely.
+
+🚀 Features
+✅ User authentication with JWT (JSON Web Token)
+✅ Secure password storage using bcrypt
+✅ Create, read, update, and delete (CRUD) operations for notes
+✅ Responsive and dynamic UI with React.js
+✅ Protected routes for authorized users
+✅ Real-time updates with React state management
+✅ Deployed backend on Heroku, frontend on Netlify, and database on MongoDB Atlas
+
+🛠 Tech Stack
+Frontend: React.js, Axios, React Router
+
+Backend: Node.js, Express.js, JWT authentication
+
+Database: MongoDB with Mongoose ORM
+
+Security: bcrypt for password hashing, JWT for authentication
+
+Version Control: Git & GitHub
+
+Deployment: Frontend on Netlify, Backend on Heroku, Database on MongoDB Atlas
